@@ -1,9 +1,8 @@
 # Arduino libraries
 
 ### Introduction
-This repository contains several Arduino libraries I have written to be used in applications. 
+This repository contains DHT Arduino libraries Tob Tillaart have written to be used in applications. 
 Most of them include example code how the libraries can be used. 
-Furthermore this repository contains a few stand alone applications.
 
 ### Questions
 For questions about the usage of the libraries, please post a question on the Arduino 
