@@ -1,8 +1,17 @@
 # Arduino libraries
 
 ### Introduction
-This repository contains DHT Arduino libraries Tob Tillaart have written to be used in applications. 
+This repository contains only DHT Arduino libraries Tob Tillaart have written to be used in applications. 
 Most of them include example code how the libraries can be used. 
+
+### DHTlib
+This library can be used for reading temperature and humidity values from these DHT sensors. 
+Later 0.1.xx versions are optimized for AVR.
+See DHTStable library for latest stable version for all platforms.
+
+### DHTstable
+This version is stable for both ARM and AVR.
+You can use most examples from /DHTlib/examples
 
 ### Questions
 For questions about the usage of the libraries, please post a question on the Arduino 
